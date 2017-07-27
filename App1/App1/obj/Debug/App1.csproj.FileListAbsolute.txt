@@ -1,0 +1,17 @@
+C:\Users\t-rivila\Documents\Visual Studio 2017\Projects\App1\App1\App1\bin\Debug\App1.dll
+C:\Users\t-rivila\Documents\Visual Studio 2017\Projects\App1\App1\App1\bin\Debug\App1.pdb
+C:\Users\t-rivila\Documents\Visual Studio 2017\Projects\App1\App1\App1\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\t-rivila\Documents\Visual Studio 2017\Projects\App1\App1\App1\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\t-rivila\Documents\Visual Studio 2017\Projects\App1\App1\App1\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\t-rivila\Documents\Visual Studio 2017\Projects\App1\App1\App1\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\t-rivila\Documents\Visual Studio 2017\Projects\App1\App1\App1\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\t-rivila\Documents\Visual Studio 2017\Projects\App1\App1\App1\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\t-rivila\Documents\Visual Studio 2017\Projects\App1\App1\App1\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\t-rivila\Documents\Visual Studio 2017\Projects\App1\App1\App1\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\t-rivila\Documents\Visual Studio 2017\Projects\App1\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+C:\Users\t-rivila\Documents\Visual Studio 2017\Projects\App1\App1\App1\obj\Debug\App1.MainPage.xaml.g.cs
+C:\Users\t-rivila\Documents\Visual Studio 2017\Projects\App1\App1\App1\obj\Debug\App1.App.xaml.g.cs
+C:\Users\t-rivila\Documents\Visual Studio 2017\Projects\App1\App1\App1\obj\Debug\App1.dll
+C:\Users\t-rivila\Documents\Visual Studio 2017\Projects\App1\App1\App1\obj\Debug\App1.pdb
+C:\Users\t-rivila\Documents\Visual Studio 2017\Projects\App1\App1\App1\obj\Debug\App1.EffectPage.xaml.g.cs
+C:\Users\t-rivila\Documents\Visual Studio 2017\Projects\App1\App1\App1\obj\Debug\App1.AnimatedButton.xaml.g.cs
