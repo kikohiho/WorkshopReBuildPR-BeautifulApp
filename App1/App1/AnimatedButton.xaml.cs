@@ -35,7 +35,9 @@ namespace App1
         protected override async void OnAppearing()
         {
             System.Diagnostics.Debug.WriteLine("OnAppearing Called");
+            //Corre todas las animaciones y acaba cuando todas acaban
             await Task.WhenAll(
+                
                 button.ScaleTo(1, 1000, Easing.SinInOut),
                 button.FadeTo(1, 1000, Easing.Linear)
             );

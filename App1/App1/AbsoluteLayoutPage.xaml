@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.AbsoluteLayoutPage">
+    <ContentPage.Content>
+        <AbsoluteLayout>
+            <StackLayout AbsoluteLayout.LayoutFlags="All" 
+                         AbsoluteLayout.LayoutBounds="0, 0, 1, 1">
+                <Label Text="Hello World!"></Label>
+                <Button Text="Hello" BackgroundColor="Navy" 
+                        TextColor="White"
+                        Clicked="Button_Clicked"></Button>
+            </StackLayout>
+            <Frame AbsoluteLayout.LayoutFlags="All" 
+                   AbsoluteLayout.LayoutBounds="0.5, 0.5, 0.5, 0.3"
+                   IsVisible="False"
+                   x:Name="frame">
+                <Label Text="Pop Up"></Label>
+            </Frame>
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>

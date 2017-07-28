@@ -22272,16 +22272,16 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\t-rivila\\Documents\\Visual Studio 2017\\Projects\\App1\\App1\\App1.UWP\\App1.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\t-rivila\\documents\\visual studio 2017\\Projects\\App1\\App1\\App1.UWP\\App1.UWP.csproj",
       "projectName": "App1.UWP",
-      "projectPath": "C:\\Users\\t-rivila\\Documents\\Visual Studio 2017\\Projects\\App1\\App1\\App1.UWP\\App1.UWP.csproj",
-      "projectJsonPath": "C:\\Users\\t-rivila\\Documents\\Visual Studio 2017\\Projects\\App1\\App1\\App1.UWP\\project.json",
+      "projectPath": "C:\\Users\\t-rivila\\documents\\visual studio 2017\\Projects\\App1\\App1\\App1.UWP\\App1.UWP.csproj",
+      "projectJsonPath": "C:\\Users\\t-rivila\\documents\\visual studio 2017\\Projects\\App1\\App1\\App1.UWP\\project.json",
       "projectStyle": "ProjectJson",
       "frameworks": {
         "uap10.0": {
           "projectReferences": {
-            "C:\\Users\\t-rivila\\Documents\\Visual Studio 2017\\Projects\\App1\\App1\\App1\\App1.csproj": {
-              "projectPath": "C:\\Users\\t-rivila\\Documents\\Visual Studio 2017\\Projects\\App1\\App1\\App1\\App1.csproj"
+            "C:\\Users\\t-rivila\\documents\\visual studio 2017\\Projects\\App1\\App1\\App1\\App1.csproj": {
+              "projectPath": "C:\\Users\\t-rivila\\documents\\visual studio 2017\\Projects\\App1\\App1\\App1\\App1.csproj"
             }
           }
         }

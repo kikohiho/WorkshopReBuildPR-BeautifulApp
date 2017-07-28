@@ -15,3 +15,5 @@ C:\Users\t-rivila\Documents\Visual Studio 2017\Projects\App1\App1\App1\obj\Debug
 C:\Users\t-rivila\Documents\Visual Studio 2017\Projects\App1\App1\App1\obj\Debug\App1.pdb
 C:\Users\t-rivila\Documents\Visual Studio 2017\Projects\App1\App1\App1\obj\Debug\App1.EffectPage.xaml.g.cs
 C:\Users\t-rivila\Documents\Visual Studio 2017\Projects\App1\App1\App1\obj\Debug\App1.AnimatedButton.xaml.g.cs
+C:\Users\t-rivila\documents\visual studio 2017\Projects\App1\App1\App1\obj\Debug\App1.GridPage.xaml.g.cs
+C:\Users\t-rivila\documents\visual studio 2017\Projects\App1\App1\App1\obj\Debug\App1.AbsoluteLayoutPage.xaml.g.cs
